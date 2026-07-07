@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Virtual / conda
+.venv/
+venv/
+.env
+
+# NetKet / training outputs
+*.msgpack
+*.npz
+training_energy.png
+*.log
+
+# IDE
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/

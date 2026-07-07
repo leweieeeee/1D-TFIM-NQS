@@ -1,0 +1,19 @@
+# Reproduces the netket-lr conda env used for preliminary VMC.
+# CPU install (default). For NVIDIA GPU on Linux, see README.md § GPU.
+name: netket-lr
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+      - jax==0.7.2
+      - jaxlib==0.7.2
+      - netket==3.22.2
+      - flax==0.10.6
+      - einops==0.8.2
+      - matplotlib==3.11.0
+      - numpy==2.4.6
+      - scipy==1.17.1
+      - optax==0.2.8
+      - jaxtyping==0.3.10

@@ -1,0 +1,7 @@
+{
+    "python.defaultInterpreterPath": "C:\\Users\\lewei\\anaconda3\\envs\\netket-lr\\python.exe",
+    "python.condaPath": "C:\\Users\\lewei\\anaconda3\\Scripts\\conda.exe",
+    "python.pythonPath": "C:\\Users\\lewei\\anaconda3\\envs\\netket-lr\\python.exe",
+    "python.interpreter.infoVisibility": "always",
+    "python.terminal.activateEnvironment": true
+}
